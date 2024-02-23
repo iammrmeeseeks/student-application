@@ -47,7 +47,3 @@ mvn spring-boot:run
 - **Spring**: Framework for building web applications.
 - **JPA/Hibernate**: For ORM and data persistence.
 - **H2 Database**: In-memory database.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit pull requests or create issues for bugs and feature requests.
