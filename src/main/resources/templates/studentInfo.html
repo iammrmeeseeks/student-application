@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Student Information</title>
+</head>
+<body>
+
+<h2>Submitted Student Information</h2>
+
+<div>
+    <p>Id: <span th:text="${student.studentId}"></span></p>
+    <p>Name: <span th:text="${student.studentName}"></span></p>
+    <p>Age: <span th:text="${student.studentAge}"></span></p>
+</div>
+
+</body>
+</html>
